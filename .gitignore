@@ -90,4 +90,4 @@ fabric.properties
 !.idea/runConfigurations
 
 .env
-
+/tests/demoqa/allure-results
